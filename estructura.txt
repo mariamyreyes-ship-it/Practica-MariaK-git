@@ -1,0 +1,8 @@
+hotel_reservations/
+|-entidades/
+|   |--__init__.py
+|   |--habitacion.py
+|   |--huesped.py
+|   |--reserva.py
+|__main.py
+|__init__.py
